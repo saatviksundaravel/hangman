@@ -7,13 +7,7 @@
     justify-content: center;
 }
 
-.left_side{
-    display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: 50% 5% 35%;
-    justify-content: center;
-    justify-items: center;
-}
+
 
 .scores{
     display: grid;
